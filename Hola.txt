@@ -1,17 +1,4 @@
-Es mi proyecto de prueba
+E
 
-Jajaja que estoy haciendo
 
-Ayuda
-
-<<<<<<< HEAD
-ESTO ES EL MASTER AAAAAAAAAAAAAAAAAAAAAAAA
-=======
-
-ZZZZZZZZZZz
-
-ESTA ES LA CABECERA CHOROOOOOOOOOOOOOOOOOOOOOO
->>>>>>> cabecera
-
-que onda choro
-WAWAWAWAWAWAWA
+Estoy en github, esto es genial
