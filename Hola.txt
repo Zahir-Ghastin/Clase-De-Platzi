@@ -1,10 +1,10 @@
-Es mi proyecto de prueba
-
-Jajaja que estoy haciendo
-
-Ayuda
+E
 
 
+Estoy en github, esto es genial
+
+
+<<<<<<< HEAD
 ZZZZZZZZZZz
 
 ESTA ES LA CABECERA CHOROOOOOOOOOOOOOOOOOOOOOO
@@ -19,3 +19,22 @@ WAWAWAWAWAWAWA
 
 Traeme esta linea pibe
 
+=======
+sadasdasdasdasdasdasdadasdsdd
+asdasd
+asddas
+dasdas
+dsadsasd
+asd
+as
+d
+asd
+as
+da
+das
+d
+asd
+as
+da
+d
+>>>>>>> 6a58e90020f9ee73441be360a33e25a9d6a25caa
